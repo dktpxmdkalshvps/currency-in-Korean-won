@@ -31,5 +31,5 @@ def get_my_exchange_rates(api_key):
 
 if __name__ == "__main__":
     # Your provided API Key
-    MY_API_KEY = "c06c45a75579d6923dd401c5"
+    MY_API_KEY =""
     get_my_exchange_rates(MY_API_KEY)
